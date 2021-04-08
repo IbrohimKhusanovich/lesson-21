@@ -2,7 +2,7 @@
   .header--btns {
     width: max-content;
     margin-top: 5px;
-    margin-left:0%;
+    margin-left: 0%;
     position: absolute;
     right: 5%;
   }
@@ -32,174 +32,192 @@
     font-size: 20px;
     transition: 0.4s;
   }
-  .section1-texts{
-      margin-left: 0;
-      position: relative;
-      top: 4rem;
+  .section1-texts {
+    margin-left: 0;
+    position: relative;
+    top: 4rem;
   }
-  .section1-text1{
-      font-size: 30px;
-      width: 100%;
-      text-align: center;
+  .section1-text1 {
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
   }
-  .section1-text2{
-      width: 90%;
+  .section1-text2 {
+    width: 90%;
     text-align: center;
     margin: 0 5%;
   }
-  .section2-text2{
-      width: 80%;
+  .section2-text2 {
+    width: 80%;
   }
-  .section2-text1{
-      width: 80%;
-      margin: 0 auto;
-  }
-  .section2-img1{
-    width: 90%;
-    margin-top: 2rem;
-}
-.section2-text3{
+  .section2-text1 {
     width: 80%;
     margin: 0 auto;
-}
-.section2-images{
+  }
+  .section2-img1 {
+    width: 90%;
+    margin-top: 2rem;
+  }
+  .section2-text3 {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .section2-images {
     width: 13%;
-
-}
-.section3{
+  }
+  .section3 {
     display: block;
     margin: 3rem;
-}
-.section3-boxs{
+  }
+  .section3-boxs {
     display: block;
-
-}
-.section3-texts{
+  }
+  .section3-texts {
     margin-left: 0;
-}
+  }
 
-.section3-text4{
-  width: 100%;  
-}
-.section3-text5{
+  .section3-text4 {
     width: 100%;
-}
-.section4{
+  }
+  .section3-text5 {
+    width: 100%;
+  }
+  .section4 {
     display: block;
-}
-.section3-img6{
+  }
+  .section3-img6 {
     width: 100%;
     margin: 0 auto;
-}
-.section3-texts1{
+  }
+  .section3-texts1 {
     position: relative;
     top: 25rem;
-}
-.section3-img2{
+  }
+  .section3-img2 {
     position: relative;
     bottom: 23rem;
-}
-.section3-img6{
+  }
+  .section3-img6 {
     position: relative;
     top: 10rem;
-}
-.section3-texts2{
+  }
+  .section3-texts2 {
     position: relative;
     top: 10rem;
-}
-.section3-img5{
+  }
+  .section3-img5 {
     width: 100%;
-    margin:0 auto;
+    margin: 0 auto;
     position: relative;
     bottom: 8rem;
-}
-.section3-texts3{
+  }
+  .section3-texts3 {
     position: relative;
     top: 40rem;
-}
-.section4{
-    margin:0;
+  }
+  .section4 {
+    margin: 0;
     position: relative;
     top: 15rem;
-}
-.section4-img1{
+  }
+  .section4-img1 {
     display: none;
-}
-.section4-boxs{
+  }
+  .section4-boxs {
     margin-bottom: 2rem;
-}
-.section5{
+  }
+  .section5 {
     padding: 3rem 1rem;
     margin-top: 20rem;
     text-align: center;
-}
-.section5-boxs{
+  }
+  .section5-boxs {
     display: block;
-}
-.section5-text5{
+  }
+  .section5-text5 {
     font-weight: 500;
     margin-left: 0rem;
     margin-bottom: 4rem;
-}
-.section5-text1{
+  }
+  .section5-text1 {
     display: none;
-}
-.section5-text2{
+  }
+  .section5-text2 {
     display: none;
-}
-.section5-box2{
+  }
+  .section5-box2 {
     margin-left: 0;
-}
-.section5-text3{
+  }
+  .section5-text3 {
     width: 100%;
     margin-bottom: 1rem;
-}
-.section5-text4{
+  }
+  .section5-text4 {
     margin-left: 0;
     width: 9%;
-}
-.section5-img1{
+  }
+  .section5-img1 {
     margin-bottom: 5rem;
-}
-.section6-text2{
+  }
+  .section6-text2 {
     display: none;
-}
-.section6{
+  }
+  .section6 {
     width: 90%;
-}
-.inputs{
+  }
+  .inputs {
     margin-left: 0;
-  display: flex;
-  justify-content: center;
-}
-.section7{
+    display: flex;
+    justify-content: center;
+  }
+  .section7 {
     display: block;
     text-align: center;
-}
-.section7-text1{
+  }
+  .section7-text1 {
     margin-bottom: 1rem;
-}
-#cars{
+  }
+  #cars {
     margin-left: 0;
     margin: 0 auto;
-}
-.section8{
+  }
+  .section8 {
     padding: 0 1rem;
     position: relative;
     left: 0rem;
-}
-.section8-ancer{
+  }
+  .section8-ancer {
     display: block;
     margin-right: 30%;
     margin-top: 1rem;
-}
-.section8-logo{
+  }
+  .section8-logo {
     width: 30%;
     position: relative;
     right: 0;
     left: 35%;
-}
-.section8-text1{
+  }
+  .section8-text1 {
     margin-left: 25%;
+  }
 }
+@media screen and (max-width: 480px) {
+  .section1-btn1 {
+    width: 70%;
+    padding: 8px 20%;
+    margin: 0 10%;
+    text-align: center;position: relative;
+    left: 0;
+  }
+  .section4{
+      position: relative;
+      top: 20rem;
+  }
+  .section6-btn{
+      margin-top: -2rem;
+  }
+  .section8-text1{
+      margin-left: 0;
+      text-align: center;
+  }
 }
