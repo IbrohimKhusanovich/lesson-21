@@ -204,20 +204,53 @@
 @media screen and (max-width: 480px) {
   .section1-btn1 {
     width: 70%;
-    padding: 8px 20%;
-    margin: 0 10%;
-    text-align: center;position: relative;
+    padding: 8px 8%;
+    margin: 0 20%;
+    text-align: center;
+    position: relative;
     left: 0;
   }
-  .section4{
-      position: relative;
-      top: 20rem;
+  .section2-logos {
+    display: flex;
+    flex-wrap: wrap;
   }
-  .section6-btn{
-      margin-top: -2rem;
+  .section4 {
+    position: relative;
+    top: 20rem;
   }
-  .section8-text1{
-      margin-left: 0;
-      text-align: center;
+  .section6-btn {
+    margin-top: -2rem;
+  }
+  .section8-text1 {
+    margin-left: 0;
+    text-align: center;
+  }
+  .section2-images {
+    width: 30%;
+    margin-bottom: 2rem;
+  }
+  .section3-texts1 {
+    position: relative;
+    top: 15rem;
+  }
+  .section3-texts3 {
+    position: relative;
+    top: 33rem;
+  }
+  .section3-img5 {
+    position: relative;
+    top: -15rem;
+  }
+  .section8-ancer {
+    margin: 1rem 0;
+    margin-right: 25%;
+  }
+  .section3-img2{
+    position: relative;
+    top: -34rem;
+  }
+  .section3-img6{
+    position: relative;
+    top: 5rem;
   }
 }
